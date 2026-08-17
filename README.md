@@ -1,1 +1,1 @@
-# smart-traffic-violation-analyzer
+# SQL-focused-GitHub-repository
