@@ -1,0 +1,10 @@
+SELECT TOP 5 *
+FROM Inventory;
+
+SELECT TOP 5 *
+FROM Inventory
+ORDER BY Price DESC;
+
+SELECT TOP 3 *
+FROM Inventory
+ORDER BY Quantity DESC;
