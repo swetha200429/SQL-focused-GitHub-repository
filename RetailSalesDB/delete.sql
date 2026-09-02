@@ -1,6 +1,0 @@
-DELETE FROM Sales
-WHERE Sale_ID = 999;
-
-SELECT *
-FROM Sales
-WHERE Sale_ID = 999;

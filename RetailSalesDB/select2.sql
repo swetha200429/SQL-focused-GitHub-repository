@@ -1,3 +1,0 @@
-SELECT *
-FROM Sales
-WHERE Sale_ID = 999;
